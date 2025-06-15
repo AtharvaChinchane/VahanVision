@@ -1,4 +1,7 @@
-VahanVision:Automatic Indian Numberplate Detection
+> VahanVision:Automatic Indian Numberplate Detection
+
+
+---
 This project uses a **YOLOv8 model** combined with **EasyOCR** to detect vehicles and number plates from **video input**, extract the license text, determine the **Indian state** based on the plate code, and save annotated results.
 
 ---
